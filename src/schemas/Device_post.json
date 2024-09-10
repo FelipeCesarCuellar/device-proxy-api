@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "maxLength": 255,
+            "minLength": 1
+        },
+        "settings": {
+            "type": "object"
+        }
+    },
+    "extraProperties": false,
+    "required": ["name", "settings"]
+}

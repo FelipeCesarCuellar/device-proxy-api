@@ -1,0 +1,7 @@
+falcon==3.1.1
+gunicorn==23.0.0
+jsonschema==4.23.0
+requests==2.31.0
+SQLAlchemy==1.4.46
+urllib3==1.26.18
+attrs==24.2.0

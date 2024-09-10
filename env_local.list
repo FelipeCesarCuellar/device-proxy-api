@@ -1,0 +1,5 @@
+DB_USER=my_user
+DB_PASSWORD=my_pwd
+DB_HOST=db
+DB_NAME=my_db
+DB_PORT=5432
